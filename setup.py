@@ -11,7 +11,7 @@ setuptools.setup(
     description="My example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://test.pypi.org/project/llomuscio-package/0.0.1/",
+    url="https://github.com/Bobbycookie/Package_Lucas",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
