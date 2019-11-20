@@ -11,7 +11,7 @@ setuptools.setup(
     description="My example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/gkiar/cebd1160-week10-project",
+    url="https://github.com/Bobbycookie/Package_Lucas",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
